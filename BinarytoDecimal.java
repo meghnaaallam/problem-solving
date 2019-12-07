@@ -30,7 +30,7 @@ public class BinarytoDecimal {
 	System.out.println("enter a number");	
 	Scanner sc=new Scanner(System.in);
 	n=sc.nextLong();
-		System.out.println("roman equivalent :"+ binarytod(n));
+		System.out.println("decimal  equivalent :"+ binarytod(n));
 	}
 	
 	
