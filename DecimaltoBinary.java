@@ -30,7 +30,7 @@ public class DecimaltoBinary {
 	System.out.println("enter a number");	
 	Scanner sc=new Scanner(System.in);
 	n=sc.nextInt();
-		System.out.println("roman equivalent :"+ dtobinary(n));
+		System.out.println("Binary equivalent :"+ dtobinary(n));
 	}
 	
 	
