@@ -1,7 +1,7 @@
 /*Sorting is nothing but arranging the data in a logical order. It might be in acsending or descending order. 
 For alpanumeric values it can be arranged in dictionary order.
 *********BUBBLE SORT*********
-Comparision based algorithm i.e it compares he adjacent value of its element and swaps them if they are in wrong order.
+Comparision based algorithm i.e it compares the adjacent value of its element and swaps them if they are in wrong order.
 */
 
 import java.util.Scanner;
