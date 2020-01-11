@@ -2,6 +2,8 @@
 For alpanumeric values it can be arranged in dictionary order.
 *********BUBBLE SORT*********
 Comparision based algorithm i.e it compares the adjacent value of its element and swaps them if they are in wrong order.
+array size is n. 
+no.of passes=n-1
 */
 
 import java.util.Scanner;
