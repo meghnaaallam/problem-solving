@@ -10,10 +10,10 @@ char ch[]=str.toCharArray();
 String str2="";
 for(i=ch.length-1;i>=0;i--)
 {
-str2=str2+ str.charAt(i);
+str2=str2+ ch[i];
 }
 System.out.println(str2);
-if(str2==str)
+if(str2.equals(str))
 System.out.println("palindrome");
 else
 System.out.println("not an palindrome");
