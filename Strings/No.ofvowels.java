@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.*;
 class Main {
   public static void main(String[] args) {
-    int i,count=0;
+    int i,count=0,cons=0;
     Scanner sc=new Scanner(System.in);
     System.out.print("enter your string");
     String str=sc.nextLine();
@@ -13,7 +13,10 @@ class Main {
     {
       count++;
     }
+      else
+        cons++;
     }
     System.out.println(count);
+    System.out.println(cons);
   }
 }
