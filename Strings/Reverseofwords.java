@@ -10,18 +10,11 @@ class Main {
 	public static void main (String[] args) {
 		Scanner sc=new Scanner(System.in);
 		String str=sc.nextLine();
-	first(str);
+		String[] str2=str.split(" ");
+		for(int i=str2.length()-1;i>=0;i--)
+		{
+			
+	System.out.print(str2)
 	}
-	static void first(String str)
-	{
-	    char ch[]=str.toCharArray();
-	     System.out.print(Character.toUpperCase(ch[0]));
-	    for(int i=1;i<ch.length-1;i++)
-	    {
-	        if(ch[i]==' ')
-	        {
-	            System.out.print(""+Character.toUpperCase(ch[i+1]));
-	        }
-	    }
-	}
+	}		
 }
