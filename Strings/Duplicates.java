@@ -1,5 +1,5 @@
 /* input: hello
-output: ll
+output: l is repeating 2 times
 */
 
 
