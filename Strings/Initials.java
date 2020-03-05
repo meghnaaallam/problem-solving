@@ -22,7 +22,7 @@ class initials {
 	// Driver code 
 	public static void main(String args[]) 
 	{ 
-		String name = "prabhat kumar singh"; 
+		String name = "geeks for geeks"; 
 		printInitials(name); 
 	} 
 } 
