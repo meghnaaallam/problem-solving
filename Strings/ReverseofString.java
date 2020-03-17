@@ -20,9 +20,8 @@ class Main {
  int i;
  Scanner sc=new Scanner(System.in);
  String str="meghna";
- char[] ch=str.toCharArray();
  String str2="";
- for(i=ch.length-1;i>=0;i--)
+ for(i=str.length()-1;i>=0;i--)
  {
    str2=str2+ str.charAt(i);
  }
