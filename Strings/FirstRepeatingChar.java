@@ -32,7 +32,7 @@ for(int i=0;i<ch.length;i++)
 {
   String x=ch[i];
   if(hm.get(x)==1) {
-  System.out.println("first repeated character: "+x);
+  System.out.println("first non repeated character: "+x);
   break;
 }
 }
@@ -67,7 +67,7 @@ for(int i=0;i<str.length();i++)
 {
   char x=str.charAt(i);
   if(hm.get(x)==1) {
-  System.out.println("first repeated character: "+x);
+  System.out.println("first non repeated character: "+x);
   break;
 }
 }
