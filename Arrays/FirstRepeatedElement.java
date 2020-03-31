@@ -2,9 +2,7 @@
 output: 1
 */
 
-
-
-
+//method 1//
 
 import java.util.*;
 class Main {
