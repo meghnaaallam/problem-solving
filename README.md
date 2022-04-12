@@ -18,4 +18,4 @@ Trees: https://youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk
 
 Graphs: https://youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw
 
-
+Hashing: https://www.youtube.com/watch?v=mFY0J5W8Udk 
