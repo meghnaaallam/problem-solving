@@ -4,6 +4,11 @@ Just an attempt to solve DSA everyday :)
 
 A few resources that I used
 
+Book: Cracking the coding interview
+Core Java - Dr.R.Nagesgwara Rao
+
+Youtube:
+
 DP: https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
 
 Stacks: https://youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd
