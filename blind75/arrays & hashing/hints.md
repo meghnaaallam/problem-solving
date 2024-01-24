@@ -1,0 +1,4 @@
+- Check if its solveable by sorting
+- what if the array has negative elements - check for edge cases
+- mostly try using hashmaps /sets
+- try the two pointer approach 
