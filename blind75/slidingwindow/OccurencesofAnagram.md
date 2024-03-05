@@ -1,7 +1,11 @@
 class Solution {
+
     public List<Integer> findAnagrams(String s, String p) {
+    
         HashMap<Character, Integer> map = new HashMap<>();
+        
         List<Integer> result = new ArrayList<>();
+        
         int k = p.length();
         for(int i=0;i<k;i++) {
             char value = p.charAt(i);
