@@ -2,3 +2,5 @@
 - what if the array has negative elements - check for edge cases
 - mostly try using hashmaps /sets
 - try the two pointer approach 
+- for the two pinter approach: mostly the array will be sorted or it will require you to satisfy a few conditions
+- The set of elements in the array is a pair, a triplet, or even a subarray
